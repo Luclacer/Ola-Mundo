@@ -1,6 +1,6 @@
 # Olá, Mundo!
 Primeiro Repositório do curso de git e github
-<<<<<<< Updated upstream
+É agora
 Testando atualização
 Novamente testando
 
